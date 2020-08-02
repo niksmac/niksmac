@@ -4,7 +4,7 @@
 
 Outside of my work, I try to expand my views through new experiences while taking every opportunity to learn from them. I do this because I think that the best Entrepreneurs understands not just the ecosystem, but the world and people in it; the thing that we are ultimately living for. I also enjoy reading about design, startup, Blockchain and Ethereum.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=niksmac&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=niksmac&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 <!--
 **niksmac/niksmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
