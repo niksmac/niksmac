@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 #### Entrepreneur, Blockchain enthusiast, co-founder of Lightrains Technolabs
 
