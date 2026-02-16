@@ -11,4 +11,4 @@ Outside of my work, I try to expand my views through new experiences while takin
           
 <a href="https://foundersarehiring.com/" target="_blank">FoundersAreHiring (fah)</a> - A direct founder-to-talent hiring platform with curated drops and no recruiters.
 
-<a href="https://holdmybill.com" target="_blank">HoldMyBill</> - Lifecycle Management for Everyday Products
+<a href="https://holdmybill.com" target="_blank">HoldMyBill</a> - Lifecycle Management for Everyday Products
