@@ -14,3 +14,5 @@ Outside of my work, I try to expand my views through new experiences while takin
 <a href="https://holdmybill.com" target="_blank" title="Warranty Tracker app">HoldMyBill</a> - Lifecycle & Warranty Management for Everyday Products
 
 <a href="https://ourbits.io" target="_blank" title="Warranty Tracker app">Ourbits Systems</a> - Circular economy infrastructure for physical products
+
+<a href="https://merrin.xyz" target="_blank" title="A private AI that remembers what matters. ">Merrin</a> - A private AI that remembers what matters. 
